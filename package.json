@@ -7,6 +7,7 @@
   "author": "Leonardo Ribeiro <leoribeiro.dsgn@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "babel-plugin-transform-decorators": "^6.24.1",
     "jest": "^20.0.4"
   },
   "dependencies": {
