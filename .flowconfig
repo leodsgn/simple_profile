@@ -1,0 +1,8 @@
+[include]
+./app/**/**/*
+
+[ignore]
+node_modules
+
+[libs]
+./public/assets/lib
